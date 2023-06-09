@@ -1,0 +1,39 @@
+.heading{
+    text-align: center;
+    background-color: black;
+    color: darkcyan;
+}
+.image{
+    text-align: center;
+}
+img{
+    border: 2px solid red;
+}
+.description{
+    text-align: center;
+    background-color: chocolate;
+    color: white;
+    border-radius: 3px;
+}
+
+.ingredients{
+    text-align: center;
+    background-color: darkseagreen;
+    border: 3px solid black;
+}
+ul{
+    list-style: inside;
+    text-decoration: solid;
+}
+
+.steps{
+    text-align: center;
+    background-color: aqua;
+    color: brown;
+    border: 2px solid khaki;
+    border-radius: 10px;
+}
+ol{
+    list-style: lower-roman;
+    word-spacing: 1px;
+}
